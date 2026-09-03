@@ -3,3 +3,4 @@
 ls -lrt
 echo $?
 echo "here if the value is 0 this command is sucessful"
+echo "hello i am adding some more lines to this script"
